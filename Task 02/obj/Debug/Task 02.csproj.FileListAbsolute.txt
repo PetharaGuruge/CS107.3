@@ -1,0 +1,8 @@
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 5\Task 02\obj\Debug\Task 02.csproj.AssemblyReference.cache
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 5\Task 02\obj\Debug\Task 02.csproj.SuggestedBindingRedirects.cache
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 5\Task 02\obj\Debug\Task 02.csproj.CoreCompileInputs.cache
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 5\Task 02\bin\Debug\Task 02.exe.config
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 5\Task 02\bin\Debug\Task 02.exe
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 5\Task 02\bin\Debug\Task 02.pdb
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 5\Task 02\obj\Debug\Task 02.exe
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 5\Task 02\obj\Debug\Task 02.pdb
