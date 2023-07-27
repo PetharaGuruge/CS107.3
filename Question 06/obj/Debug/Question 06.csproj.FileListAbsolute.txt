@@ -1,0 +1,8 @@
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 06\Question 06\bin\Debug\Question 06.exe.config
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 06\Question 06\bin\Debug\Question 06.exe
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 06\Question 06\bin\Debug\Question 06.pdb
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 06\Question 06\obj\Debug\Question 06.csproj.AssemblyReference.cache
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 06\Question 06\obj\Debug\Question 06.csproj.SuggestedBindingRedirects.cache
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 06\Question 06\obj\Debug\Question 06.csproj.CoreCompileInputs.cache
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 06\Question 06\obj\Debug\Question 06.exe
+C:\Users\petha\Documents\C Programs\C# Programs\Uni\Lab 06\Question 06\obj\Debug\Question 06.pdb
